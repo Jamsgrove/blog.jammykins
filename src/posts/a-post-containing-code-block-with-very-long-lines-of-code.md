@@ -5,7 +5,6 @@ permalink: posts/{{ title | slug }}/index.html
 date: '2021-06-28'
 tags: [demo-content, code]
 ---
-hello im wathcin g you
 
 Health goth raw denim vaporware waistcoat, vegan neutra glossier. Cronut chartreuse tbh meh schlitz. Snackwave lumbersexual pinterest narwhal, single-origin coffee coloring book selfies tacos. Fanny pack vaporware disrupt health goth, organic snackwave heirloom jean shorts truffaut lo-fi stumptown.
 
@@ -38,3 +37,4 @@ Draw a line in the sand time vampire translating our vision of having a market l
 ## Heading
 
 Upsell we need to socialize the comms with the wider stakeholder community bench mark accountable talk nor price point. Drill down obviously so productize pig in a python, so enough to wash your face knowledge is power what do you feel you would bring to the table if you were hired for this position. New economy. Knowledge process outsourcing idea shower, and baseline drink the Kool-aid vertical integration pro-sumer software. Touch base into the weeds, and knowledge process outsourcing clear blue water re-inventing the wheel waste of resources, nor Bob called an all-hands this afternoon. I don’t want to drain the whole swamp, i just want to shoot some alligators.
+.
