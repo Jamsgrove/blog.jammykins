@@ -40,6 +40,7 @@
     "clean": "rm -rf ./public"
   },
   "dependencies": {
+    "env": "^0.0.2",
     "remove": "^0.1.5"
   }
 }
