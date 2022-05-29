@@ -5,4 +5,4 @@ name: Jamison
 image: '/images/me.jpg'
 ---
 
-Jamison is the coolest person on earth. And you know what else about him ;)
+I am a Senior Network Engineer and have many hobbies including electronics. You may see a variety of blogs on this site!

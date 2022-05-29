@@ -1,6 +1,6 @@
 {
   "name": "Jamisons Blog",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
+  "description": "A site with blog posts that will blow your mind.",
   "url": "https://blog.jammykins.com/",
   "author": {
     "name": "Jamison",
@@ -27,8 +27,8 @@
       "external": true
     },
     {
-      "text": "",
-      "url": "",
+      "text": "Linkedin",
+      "url": "https://www.linkedin.com/in/jamison-bransgrove-78546258/",
       "external": true
     }
   ],
