@@ -101,7 +101,7 @@
       <footer class="footer">
         <div class="footer__content">
 
-          <ul class="hero__social-links">
+          <ul class="hero__social-links" style="justify-content: center; align-items: center;">
             {% if site.socialLinks %}
               {% for item in site.socialLinks %}
                 {% set externalAttribute = '' %}
@@ -111,7 +111,7 @@
                 {% endif %}
 
                 <li>
-                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} >{{ item.text }}</a>
+                  <a href="{{ item.url | url }}" {{ externalAttribute | safe }} ><img src="{{ item.image }}"/></a>
                 </li>
               {% endfor %}
             {% endif %}

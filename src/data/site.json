@@ -23,12 +23,14 @@
   "socialLinks": [
     {
       "text": "GitHub",
-      "url": "https://github.com/",
+      "url": "https://github.com/Jamsgrove",
+      "image": "/images/GitHub-Mark-47px.png",
       "external": true
     },
     {
       "text": "Linkedin",
       "url": "https://www.linkedin.com/in/jamison-bransgrove-78546258/",
+      "image": "/images/icons8-linkedin-circled-48.png",
       "external": true
     }
   ],
