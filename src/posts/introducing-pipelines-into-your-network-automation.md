@@ -127,3 +127,6 @@ Once you load the gitlab-ci.yml into your repository it will immediately enable 
 *** screenshot of pipeline job run button
 By default the pipelines will also run when you commit, check out [rules](https://docs.gitlab.com/ee/ci/jobs/job_control.html#specify-when-jobs-run-with-rules) to change when or why a pipeline will trigger.
 Lets hit the run button!
+
+![Pipeline_image_1](/images/pipeline_1.png)
+
